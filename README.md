@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Wajahat Karim
 
 🚀 Pakistan's Google Develper Expert for Android<br>
-📱 Worked on over 100+ apps throughout my career varying from e-commerce to ride sharing to chat to custom apps.
-📕 Co-authored two worldwide published books on Android with more than 300+ pages.
-📝 Written more than 100 articles about Android development on [my website](https://wajahatkarim.com) and [Medium profile](https://medium.com/@wajahatkarim3).
-💻 Open Source contributor with many active Android libraries used by thousands of developers in their apps
-🎤 Active public speaker sharing my experience of Android on different events.
+📱 Worked on over 100+ apps throughout my career varying from e-commerce to ride sharing to chat to custom apps.<br>
+📕 Co-authored two worldwide published books on Android with more than 300+ pages.<br>
+📝 Written more than 100 articles about Android development on [my website](https://wajahatkarim.com) and [Medium profile](https://medium.com/@wajahatkarim3).<br>
+💻 Open Source contributor with many active Android libraries used by thousands of developers in their apps<br>
+🎤 Active public speaker sharing my experience of Android on different events.<br>
 
 
 
