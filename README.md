@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Wajahat Karim
 
-![](https://wajahatkarim.com/_images/WajahatKarim_Speaker.jpg)
-
-
+<img align="right" alt="GIF" src="https://wajahatkarim.com/_images/WajahatKarim_Speaker.jpg" width="500" height="320" />
 
 <br>
 <p align="center">
