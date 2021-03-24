@@ -10,6 +10,7 @@
 	
 </p>
 
+🧑🏽‍💻 Leading Android @AirliftTech
 🚀 Pakistan's Google Develper Expert for Android<br>
 📱 Worked on over 100+ apps throughout my career varying from e-commerce to ride sharing to chat to custom apps.<br>
 📕 Co-authored two worldwide published books on Android with more than 300+ pages.<br>
