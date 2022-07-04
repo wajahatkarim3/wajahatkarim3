@@ -10,12 +10,12 @@
 	
 </p>
 
-🚀 Pakistan's Google Develper Expert for Android<br>
+🚀 Pakistan's [Google Develper Expert for Android](https://wajahatkarim.com/gde)<br>
 📱 Worked on over 100+ apps throughout my career varying from e-commerce to ride sharing to chat to custom apps.<br>
-📕 Co-authored two worldwide published books on Android with more than 300+ pages.<br>
-📝 Written more than 100 articles about Android development on [my website](https://wajahatkarim.com) and [Medium profile](https://medium.com/@wajahatkarim3).<br>
+📕 Co-authored [two worldwide published books](https://www.amazon.com/author/wajahatkarim) on Android with more than 300+ pages.<br>
+📝 Written more than 100 articles about Android development on [my website](https://wajahatkarim.com) and [Medium profile](https://medium.com/@wajahatkarim).<br>
 💻 Open Source contributor with many active Android libraries used by thousands of developers in their apps<br>
-🎤 Active public speaker sharing my experience of Android on different events.<br>
+🎤 Active [public speaker sharing my experience](https://wajahatkarim.com/speaking) of Android on different events.<br>
 
 ---
 
